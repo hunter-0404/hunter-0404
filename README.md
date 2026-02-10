@@ -10,10 +10,10 @@
 ---
 
 <a href="https://github.com/hunter-0404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-neu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-0404&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/hunter-0404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-neu&hide_border=true&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-0404&hide_border=true&layout=compact&theme=tokyonight" />
 </a>
 
 ---
