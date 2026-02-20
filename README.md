@@ -8,7 +8,7 @@ I build scalable, production-grade systems across web, mobile, and cloud environ
 - Frameworks: React, Angular, Express, ASP.NET Core
 - Cloud & Data: AWS, Azure, Docker, PostgreSQL, SQL Server
 
-Currently studying Computer Science in Boston.
+💻 Currently studying Computer Science in Boston.
 
 Most of my work focuses on end-to-end system design — integrating UI/UX, distributed services, and database architecture into reliable, high-availability platforms.
 
