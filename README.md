@@ -1,23 +1,24 @@
 ### Hi, I'm Hunter
 
-- Proficient in Python, Java, JavaScript/TypeScript, C#, and Go.
-- Famililar with libraries such as React, Angular, Express, .NET, and SQL Server. 
-- Currently studying Computer Science in Boston, MA.
-- Interested in anyhing realted to Software Engineering, Web Applications, and Machine Learning.
-- Most of my projects have some sort of integration between UI/UX, cloud-computing services, and database integration.
-- Most of my projects are commissioned for personal use for private clients, hence why they are privated here. 
+🚀 Software Engineer | Cloud-Native Systems | Full-Stack Development
+
+I build scalable, production-grade systems across web, mobile, and cloud environments.
+
+- Languages: Python, Java, TypeScript/JavaScript, C#, Go
+- Frameworks: React, Angular, Express, ASP.NET Core
+- Cloud & Data: AWS, Azure, Docker, PostgreSQL, SQL Server
+
+Currently studying Computer Science in Boston.
+
+Most of my work focuses on end-to-end system design — integrating UI/UX, distributed services, and database architecture into reliable, high-availability platforms.
+
+Many of my larger systems are built for private clients and deployed in production environments, which is why several repositories are private.
+
+Interested in:
+
+- Cloud-native architecture
+- Backend systems & APIs
+- High-performance web applications
+- Machine learning systems
 
 ---
-
-<a href="https://github.com/hunter-0404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-0404&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/hunter-0404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-0404&hide_border=true&layout=compact&theme=tokyonight" />
-</a>
-
----
-
-<a href="https://wakatime.com/@nanofaux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nanofaux&layout=compact&hide_border=true&theme=tokyonight" />
-</a>
